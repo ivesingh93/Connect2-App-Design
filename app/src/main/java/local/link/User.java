@@ -7,6 +7,7 @@ import java.util.TreeSet;
 
 /**
  * Created by ivesingh on 1/6/16.
+ * Abstract Class: User
  */
 public abstract class User {
     private String user_name, first_name, last_name, zip_code, member_since;
